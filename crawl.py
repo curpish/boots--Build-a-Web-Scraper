@@ -1,7 +1,10 @@
+from exceptions import InvalidContentTypeError, RequestFailedError
 from typing import TypedDict
 from urllib.parse import urljoin, urlsplit
 
+import requests
 from bs4 import BeautifulSoup, Tag
+
 
 class PageData(TypedDict):
     url: str
@@ -85,3 +88,21 @@ def extract_page_data(html: str, page_url: str) -> PageData:
         "outgoing_links": get_urls_from_html(html, page_url),
         "image_urls": get_images_from_html(html, page_url),
     }
+def get_html(url: str) -> str:
+    try:
+        response = requests.get(url, headers={"User-Agent": "BootCrawler/1.0"})
+    except requests.RequestException as e:
+        raise RequestFailedError(f"Network error fetching {url}: {e}") from e
+
+    if response.status_code >= 400:
+        raise RequestFailedError(
+            f"HTTP {response.status_code} fetching {url}: {response.reason}"
+        )
+
+    content_type = response.headers.get("content-type", "").lower()
+    if "text/html" not in content_type:
+        raise InvalidContentTypeError(
+            f"Expected 'text/html', got '{content_type}' at {url}"
+        )
+
+    return response.text

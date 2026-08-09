@@ -1,6 +1,13 @@
 import sys
 
+import crawl
+
+
 def main():
+    url = sys.argv[1]
+    html = crawl.get_html(url)
+    if html:
+        print(html)
     if len(sys.argv) < 2:
         print("no website provided")
         sys.exit(1)
