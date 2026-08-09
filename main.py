@@ -5,9 +5,9 @@ import crawl
 
 def main():
     url = sys.argv[1]
-    html = crawl.get_html(url)
-    if html:
-        print(html)
+    page_data = crawl.crawl_page(url)
+    if page_data:
+        print(page_data)
     if len(sys.argv) < 2:
         print("no website provided")
         sys.exit(1)
@@ -19,6 +19,13 @@ def main():
     print("Argument:", sys.argv[1])  # -v
     base_url = sys.argv[1]
     print(f"starting crawl of: {base_url}")
+    #When crawl_page() completes, print some information about the collected data to the console - like the number of pages found and iterate over the dictionary values to show the data.
+
+
+    print(f"Found {len(page_data)} pages:")
+    for page in page_data.values():
+        print(f"- {page['url']}: {len(page['outgoing_links'])} outgoing links")
+
 
 if __name__ == "__main__":
     main()

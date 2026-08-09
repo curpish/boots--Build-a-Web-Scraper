@@ -1,6 +1,6 @@
 from exceptions import InvalidContentTypeError, RequestFailedError
 from typing import TypedDict
-from urllib.parse import urljoin, urlsplit
+from urllib.parse import urljoin, urlsplit, urlparse
 
 import requests
 from bs4 import BeautifulSoup, Tag
@@ -15,8 +15,8 @@ class PageData(TypedDict):
 
 def normalize_url(input_url):
     o = urlsplit(input_url)
-    clean_rear = o.path.rstrip("/")
-    normalized = o.netloc + clean_rear
+    clean_end = o.path.rstrip("/")
+    normalized = o.netloc + clean_end
     return normalized
 
 def get_heading_from_html(html: str) -> str:
@@ -106,3 +106,37 @@ def get_html(url: str) -> str:
         )
 
     return response.text
+
+def crawl_page(
+    base_url: str,
+    current_url: str | None = None,
+    page_data: dict[str, PageData] | None = None,
+) -> dict[str, PageData]:
+    #Make sure the current_url is on the same domain as the base_url. If it's not, just return.
+    if current_url is None:
+        current_url = base_url
+    if page_data is None:
+        page_data = {}
+    if urlsplit(current_url).netloc != urlsplit(base_url).netloc:
+        return page_data
+    normalized_url = normalize_url(current_url)
+    if normalized_url in page_data:
+        print(f"Already crawled: {normalized_url}")
+        return page_data
+    try:
+        html = get_html(current_url)
+        page_info = extract_page_data(html, current_url)
+        page_data[normalized_url] = page_info
+        print(f"Crawled and extracted: {normalized_url}")
+        for link in get_urls_from_html(html, base_url):
+            page_data = crawl_page(base_url, link, page_data)
+    except Exception as e:
+        print(f"Failed to crawl {normalized_url}: {e}")
+        page_data[normalized_url] = {
+            "url": current_url,
+            "heading": "",
+            "first_paragraph": "",
+            "outgoing_links": [],
+            "image_urls": [],
+        }
+    return page_data
