@@ -24,7 +24,7 @@ def main():
 
     print(f"Found {len(page_data)} pages:")
     for page in page_data.values():
-        print(f"- {page['url']}: {len(page['outgoing_links'])} outgoing links")
+        print(f"- {page['url']}:\n {len(page['outgoing_links'])} outgoing links\n")
 
 
 if __name__ == "__main__":
