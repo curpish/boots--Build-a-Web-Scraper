@@ -1,11 +1,13 @@
+import asyncio
 import sys
+from ast import AsyncFunctionDef
 
 import crawl
 
 
-def main():
+async def main():
     url = sys.argv[1]
-    page_data = crawl.crawl_page(url)
+    page_data = await crawl.crawl_site_async(url)
     if page_data:
         print(page_data)
     if len(sys.argv) < 2:
@@ -28,4 +30,4 @@ def main():
 
 
 if __name__ == "__main__":
-    main()
+    asyncio.run(main())
