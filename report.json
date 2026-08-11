@@ -1,0 +1,387 @@
+[
+  {
+    "url": "https://learnwebscraping.dev/practice/ecommerce/",
+    "heading": "Fantasy Ecommerce Catalog",
+    "first_paragraph": "Fantasy catalogFantasy Ecommerce CatalogBrowse fantasy product listings, category pages, detail pages, prices, rarity, stock labels, and specifications.Catalog highlightsDetailed product pagesCurrent and original pricesAvailability, ratings, and loreSpecifications and category browsingPaginated product listingsBrowse the catalogFAN-1001Ashenfang LongswordRareWeapons > Swords > Longswords$184.00$229.00In StockFAN-1002Kingshade Bastard SwordEpicWeapons > Swords > Longswords$236.00$289.00Only 3 left in stock - order soonFAN-1003Moonlit Tournament BladeUncommonWeapons > Swords > Longswords$132.00$158.00In StockFAN-1004Garrison OathbladeCommonWeapons > Swords > Longswords$88.00$109.00In StockFAN-1005Verdant Duelist SaberRareWeapons > Swords > Longswords$167.00$204.00Out of StockFAN-1006Sunspire Relic BladeLegendaryWeapons > Swords > Longswords$412.00$490.00Only 3 left in stock - order soonFAN-1101Starwell Apprentice StaffCommonWeapons > Staves > Arcane Staves$72.00$89.00In StockFAN-1102Stormglass Channeling StaffRareWeapons > Staves > Arcane Staves$168.00$205.00In StockFAN-1103Mirelight Hex StaffEpicWeapons > Staves > Arcane Staves$226.00$274.00Only 3 left in stock - order soonFAN-1104Dawnscribe Rune StaffUncommonWeapons > Staves > Arcane Staves$124.00$149.00In StockFAN-1105Frostvein Scepter StaffRareWeapons > Staves > Arcane Staves$176.00$214.00Out of StockFAN-1106Astral Observatory Grand StaffLegendaryWeapons > Staves > Arcane Staves$398.00$468.00Only 3 left in stock - order soonFAN-1201Bastion Pike ChestplateCommonArmor > Heavy Armor > Chestplates$118.00$144.00In StockFAN-1202Lionwake Tournament CuirassUncommonArmor > Heavy Armor > Chestplates$164.00$199.00In StockFAN-1203Stonewarden Bulwark PlateRareArmor > Heavy Armor > Chestplates$224.00$269.00In StockFAN-1204Dreadmarsh Graveguard HarnessEpicArmor > Heavy Armor > Chestplates$276.00$332.00Only 3 left in stock - order soonFAN-1205Sunvault Defender PlateLegendaryArmor > Heavy Armor > Chestplates$441.00$520.00Only 3 left in stock - order soonFAN-1206Rookwatch Siege PlateRareArmor > Heavy Armor > Chestplates$208.00$249.00Out of StockFAN-1301Whisperleaf Scout CloakCommonArmor > Light Armor > Cloaks$54.00$68.00In StockFAN-1302Nightmarket Smuggler CapeUncommonArmor > Light Armor > Cloaks$89.00$109.00In StockFAN-1303Starling Court MantleRareArmor > Light Armor > Cloaks$138.00$169.00Only 3 left in stock - order soonFAN-1304Gloomfen VeilcloakEpicArmor > Light Armor > Cloaks$204.00$246.00Out of StockFAN-1305Sunset Falcon Travel CloakCommonArmor > Light Armor > Cloaks$47.00$59.00In StockFAN-1306Mistglass Infiltrator WrapRareArmor > Light Armor > Cloaks$149.00$181.00In StockPage 1 of 2NextCollectionsBrowse by categoryOpen a collection to explore related products in one place.Open all categoriesArcane Staves6 items in this collection.Chestplates6 items in this collection.Cloaks6 items in this collection.Enchanted Rings6 items in this collection.Longswords6 items in this collection.Mana Potions6 items in this collection.",
+    "outgoing_links": [
+      "https://learnwebscraping.dev/practice/ecommerce/",
+      "https://learnwebscraping.dev/practice/ecommerce/",
+      "https://learnwebscraping.dev/practice/ecommerce/categories/",
+      "https://learnwebscraping.dev/practice/ecommerce/products/ashenfang-longsword-fan-1001/",
+      "https://learnwebscraping.dev/practice/ecommerce/products/kingshade-bastard-sword-fan-1002/",
+      "https://learnwebscraping.dev/practice/ecommerce/products/moonlit-tournament-blade-fan-1003/",
+      "https://learnwebscraping.dev/practice/ecommerce/products/garrison-oathblade-fan-1004/",
+      "https://learnwebscraping.dev/practice/ecommerce/products/verdant-duelist-saber-fan-1005/",
+      "https://learnwebscraping.dev/practice/ecommerce/products/sunspire-relic-blade-fan-1006/",
+      "https://learnwebscraping.dev/practice/ecommerce/products/starwell-apprentice-staff-fan-1101/",
+      "https://learnwebscraping.dev/practice/ecommerce/products/stormglass-channeling-staff-fan-1102/",
+      "https://learnwebscraping.dev/practice/ecommerce/products/mirelight-hex-staff-fan-1103/",
+      "https://learnwebscraping.dev/practice/ecommerce/products/dawnscribe-rune-staff-fan-1104/",
+      "https://learnwebscraping.dev/practice/ecommerce/products/frostvein-scepter-staff-fan-1105/",
+      "https://learnwebscraping.dev/practice/ecommerce/products/astral-observatory-grand-staff-fan-1106/",
+      "https://learnwebscraping.dev/practice/ecommerce/products/bastion-pike-chestplate-fan-1201/",
+      "https://learnwebscraping.dev/practice/ecommerce/products/lionwake-tournament-cuirass-fan-1202/",
+      "https://learnwebscraping.dev/practice/ecommerce/products/stonewarden-bulwark-plate-fan-1203/",
+      "https://learnwebscraping.dev/practice/ecommerce/products/dreadmarsh-graveguard-harness-fan-1204/",
+      "https://learnwebscraping.dev/practice/ecommerce/products/sunvault-defender-plate-fan-1205/",
+      "https://learnwebscraping.dev/practice/ecommerce/products/rookwatch-siege-plate-fan-1206/",
+      "https://learnwebscraping.dev/practice/ecommerce/products/whisperleaf-scout-cloak-fan-1301/",
+      "https://learnwebscraping.dev/practice/ecommerce/products/nightmarket-smuggler-cape-fan-1302/",
+      "https://learnwebscraping.dev/practice/ecommerce/products/starling-court-mantle-fan-1303/",
+      "https://learnwebscraping.dev/practice/ecommerce/products/gloomfen-veilcloak-fan-1304/",
+      "https://learnwebscraping.dev/practice/ecommerce/products/sunset-falcon-travel-cloak-fan-1305/",
+      "https://learnwebscraping.dev/practice/ecommerce/products/mistglass-infiltrator-wrap-fan-1306/",
+      "https://learnwebscraping.dev/practice/ecommerce/page/2/",
+      "https://learnwebscraping.dev/practice/ecommerce/categories/",
+      "https://learnwebscraping.dev/practice/ecommerce/categories/arcane-staves/",
+      "https://learnwebscraping.dev/practice/ecommerce/categories/chestplates/",
+      "https://learnwebscraping.dev/practice/ecommerce/categories/cloaks/",
+      "https://learnwebscraping.dev/practice/ecommerce/categories/enchanted-rings/",
+      "https://learnwebscraping.dev/practice/ecommerce/categories/longswords/",
+      "https://learnwebscraping.dev/practice/ecommerce/categories/mana-potions/",
+      "https://www.boot.dev"
+    ],
+    "image_urls": []
+  },
+  {
+    "url": "https://learnwebscraping.dev/practice/ecommerce/categories/",
+    "heading": "Fantasy Ecommerce Categories",
+    "first_paragraph": "Category directoryFantasy Ecommerce CategoriesBrowse 6 categories and 36 product pages across the fantasy catalog.Directory overview6total categories36total productsLinked collections with clear countsAll categoriesBrowse the catalog by categoryArcane Staves6 items in this collection.Chestplates6 items in this collection.Cloaks6 items in this collection.Enchanted Rings6 items in this collection.Longswords6 items in this collection.Mana Potions6 items in this collection.",
+    "outgoing_links": [
+      "https://learnwebscraping.dev/practice/ecommerce/",
+      "https://learnwebscraping.dev/practice/ecommerce/",
+      "https://learnwebscraping.dev/practice/ecommerce/categories/",
+      "https://learnwebscraping.dev/practice/ecommerce/categories/arcane-staves/",
+      "https://learnwebscraping.dev/practice/ecommerce/categories/chestplates/",
+      "https://learnwebscraping.dev/practice/ecommerce/categories/cloaks/",
+      "https://learnwebscraping.dev/practice/ecommerce/categories/enchanted-rings/",
+      "https://learnwebscraping.dev/practice/ecommerce/categories/longswords/",
+      "https://learnwebscraping.dev/practice/ecommerce/categories/mana-potions/",
+      "https://www.boot.dev"
+    ],
+    "image_urls": []
+  },
+  {
+    "url": "https://learnwebscraping.dev/practice/ecommerce/products/ashenfang-longsword-fan-1001/",
+    "heading": "Ashenfang Longsword",
+    "first_paragraph": "Ecommerce/Categories/LongswordsFAN-1001Ashenfang LongswordRareA balanced battlefield blade with a smoldering fuller and leather-wrapped grip suited to mounted charges and evening duels.Current price$184.00Original price$229.00Stock statusIn StockRating4.8/5SpecificationsSpecificationValueCritical chance+8%Damage42 slashEnchantmentEmber edgeWeight3.8 kgMetadataItem typeLongswordBrandEmberfall ForgeClass restrictionKnightMaterialVolcanic steelCategoryWeapons > Swords > LongswordsReview count318LoreForged for Emberfall wardens who guarded the high bridges at the edge of the ash plains.",
+    "outgoing_links": [
+      "https://learnwebscraping.dev/practice/ecommerce/",
+      "https://learnwebscraping.dev/practice/ecommerce/",
+      "https://learnwebscraping.dev/practice/ecommerce/categories/",
+      "https://learnwebscraping.dev/practice/ecommerce/",
+      "https://learnwebscraping.dev/practice/ecommerce/categories/",
+      "https://learnwebscraping.dev/practice/ecommerce/categories/longswords/",
+      "https://www.boot.dev"
+    ],
+    "image_urls": [
+      "https://learnwebscraping.dev/images/catalog/longswords.svg"
+    ]
+  },
+  {
+    "url": "https://learnwebscraping.dev/practice/ecommerce/products/astral-observatory-grand-staff-fan-1106/",
+    "heading": "Astral Observatory Grand Staff",
+    "first_paragraph": "Ecommerce/Categories/Arcane StavesFAN-1106Astral Observatory Grand StaffLegendaryAn ornate grand staff with concentric brass rings and a suspended core that hums near celestial magic.Current price$398.00Original price$468.00Stock statusOnly 3 left in stock - order soonRating4.9/5SpecificationsSpecificationValueCoreMeteor heartFocus slots3Spell power+44Weight3.9 kgMetadataItem typeArcane StaffBrandCelestial MechanistsClass restrictionMageMaterialStarwood and meteoric brassCategoryWeapons > Staves > Arcane StavesReview count97LoreOnce mounted in an observatory dome that tracked falling stars over the winter desert.",
+    "outgoing_links": [
+      "https://learnwebscraping.dev/practice/ecommerce/",
+      "https://learnwebscraping.dev/practice/ecommerce/",
+      "https://learnwebscraping.dev/practice/ecommerce/categories/",
+      "https://learnwebscraping.dev/practice/ecommerce/",
+      "https://learnwebscraping.dev/practice/ecommerce/categories/",
+      "https://learnwebscraping.dev/practice/ecommerce/categories/arcane-staves/",
+      "https://www.boot.dev"
+    ],
+    "image_urls": [
+      "https://learnwebscraping.dev/images/catalog/arcane-staves.svg"
+    ]
+  },
+  {
+    "url": "https://learnwebscraping.dev/practice/ecommerce/products/bastion-pike-chestplate-fan-1201/",
+    "heading": "Bastion Pike Chestplate",
+    "first_paragraph": "Ecommerce/Categories/ChestplatesFAN-1201Bastion Pike ChestplateCommonA practical heavy chestplate with reinforced ribs and broad pauldron hooks built for long marches and shieldwall duty.Current price$118.00Original price$144.00Stock statusIn StockRating4.2/5SpecificationsSpecificationValueArmor58Resistance+4% pierceSet bonusBastion PikeWeight9.8 kgMetadataItem typeChestplateBrandIronkeep FoundryClass restrictionKnightMaterialRiveted steelCategoryArmor > Heavy Armor > ChestplatesReview count470LoreStamped with the old pike sigil of border militias that held the line through long autumn rains.",
+    "outgoing_links": [
+      "https://learnwebscraping.dev/practice/ecommerce/",
+      "https://learnwebscraping.dev/practice/ecommerce/",
+      "https://learnwebscraping.dev/practice/ecommerce/categories/",
+      "https://learnwebscraping.dev/practice/ecommerce/",
+      "https://learnwebscraping.dev/practice/ecommerce/categories/",
+      "https://learnwebscraping.dev/practice/ecommerce/categories/chestplates/",
+      "https://www.boot.dev"
+    ],
+    "image_urls": [
+      "https://learnwebscraping.dev/images/catalog/chestplates.svg"
+    ]
+  },
+  {
+    "url": "https://learnwebscraping.dev/practice/ecommerce/products/dawnscribe-rune-staff-fan-1104/",
+    "heading": "Dawnscribe Rune Staff",
+    "first_paragraph": "Ecommerce/Categories/Arcane StavesFAN-1104Dawnscribe Rune StaffUncommonA bright support staff with engraved scripture for healers and wardens who prefer measured, efficient channeling.Current price$124.00Original price$149.00Stock statusIn StockRating4.3/5SpecificationsSpecificationValueCoreSun quartzFocus slots1Spell power+18Weight2.8 kgMetadataItem typeArcane StaffBrandLumen ArchiveClass restrictionClericMaterialAsh and ivoryCategoryWeapons > Staves > Arcane StavesReview count362LoreInscribed by dawn-priests who greeted each sunrise with bells and bright chalk.",
+    "outgoing_links": [
+      "https://learnwebscraping.dev/practice/ecommerce/",
+      "https://learnwebscraping.dev/practice/ecommerce/",
+      "https://learnwebscraping.dev/practice/ecommerce/categories/",
+      "https://learnwebscraping.dev/practice/ecommerce/",
+      "https://learnwebscraping.dev/practice/ecommerce/categories/",
+      "https://learnwebscraping.dev/practice/ecommerce/categories/arcane-staves/",
+      "https://www.boot.dev"
+    ],
+    "image_urls": [
+      "https://learnwebscraping.dev/images/catalog/arcane-staves.svg"
+    ]
+  },
+  {
+    "url": "https://learnwebscraping.dev/practice/ecommerce/products/dreadmarsh-graveguard-harness-fan-1204/",
+    "heading": "Dreadmarsh Graveguard Harness",
+    "first_paragraph": "Ecommerce/Categories/ChestplatesFAN-1204Dreadmarsh Graveguard HarnessEpicA dark harness of layered plates and chain that exhales a hint of cold bog air when struck.Current price$276.00Original price$332.00Stock statusOnly 3 left in stock - order soonRating4.7/5SpecificationsSpecificationValueArmor95Resistance+14% decaySet bonusGraveguardWeight12.1 kgMetadataItem typeChestplateBrandBog Iron SyndicateClass restrictionDeath KnightMaterialBog ironCategoryArmor > Heavy Armor > ChestplatesReview count97LoreRecovered from a burial mire where pale reeds swayed over still black water.",
+    "outgoing_links": [
+      "https://learnwebscraping.dev/practice/ecommerce/",
+      "https://learnwebscraping.dev/practice/ecommerce/",
+      "https://learnwebscraping.dev/practice/ecommerce/categories/",
+      "https://learnwebscraping.dev/practice/ecommerce/",
+      "https://learnwebscraping.dev/practice/ecommerce/categories/",
+      "https://learnwebscraping.dev/practice/ecommerce/categories/chestplates/",
+      "https://www.boot.dev"
+    ],
+    "image_urls": [
+      "https://learnwebscraping.dev/images/catalog/chestplates.svg"
+    ]
+  },
+  {
+    "url": "https://learnwebscraping.dev/practice/ecommerce/products/frostvein-scepter-staff-fan-1105/",
+    "heading": "Frostvein Scepter Staff",
+    "first_paragraph": "Ecommerce/Categories/Arcane StavesFAN-1105Frostvein Scepter StaffRareA pale staff with blue-veined crystal that lends precision to frost spells and battlefield control.Current price$176.00Original price$214.00Stock statusOut of StockRating4.6/5SpecificationsSpecificationValueCoreGlacier shardFocus slots2Spell power+26Weight3.2 kgMetadataItem typeArcane StaffBrandWinterglass CraftClass restrictionMageMaterialWhalebone and ice crystalCategoryWeapons > Staves > Arcane StavesReview count214LoreRecovered from a convoy that crossed the frozen sea beneath a pale blue aurora.",
+    "outgoing_links": [
+      "https://learnwebscraping.dev/practice/ecommerce/",
+      "https://learnwebscraping.dev/practice/ecommerce/",
+      "https://learnwebscraping.dev/practice/ecommerce/categories/",
+      "https://learnwebscraping.dev/practice/ecommerce/",
+      "https://learnwebscraping.dev/practice/ecommerce/categories/",
+      "https://learnwebscraping.dev/practice/ecommerce/categories/arcane-staves/",
+      "https://www.boot.dev"
+    ],
+    "image_urls": [
+      "https://learnwebscraping.dev/images/catalog/arcane-staves.svg"
+    ]
+  },
+  {
+    "url": "https://learnwebscraping.dev/practice/ecommerce/products/garrison-oathblade-fan-1004/",
+    "heading": "Garrison Oathblade",
+    "first_paragraph": "Ecommerce/Categories/LongswordsFAN-1004Garrison OathbladeCommonA straightforward service blade with excellent balance, easy upkeep, and a broad guard suited to daily patrol work.Current price$88.00Original price$109.00Stock statusIn StockRating4.1/5SpecificationsSpecificationValueCritical chance+2%Damage28 slashEnchantmentNoneWeight3.6 kgMetadataItem typeLongswordBrandCitadel QuartermasterClass restrictionKnightMaterialTempered steelCategoryWeapons > Swords > LongswordsReview count687LoreIssued to city watch captains in the western marches and polished at the close of every shift.",
+    "outgoing_links": [
+      "https://learnwebscraping.dev/practice/ecommerce/",
+      "https://learnwebscraping.dev/practice/ecommerce/",
+      "https://learnwebscraping.dev/practice/ecommerce/categories/",
+      "https://learnwebscraping.dev/practice/ecommerce/",
+      "https://learnwebscraping.dev/practice/ecommerce/categories/",
+      "https://learnwebscraping.dev/practice/ecommerce/categories/longswords/",
+      "https://www.boot.dev"
+    ],
+    "image_urls": [
+      "https://learnwebscraping.dev/images/catalog/longswords.svg"
+    ]
+  },
+  {
+    "url": "https://learnwebscraping.dev/practice/ecommerce/products/kingshade-bastard-sword-fan-1002/",
+    "heading": "Kingshade Bastard Sword",
+    "first_paragraph": "Ecommerce/Categories/LongswordsFAN-1002Kingshade Bastard SwordEpicA hand-and-a-half sword with a blackened blade and silver runes, prized for its reach, weight, and graceful finishing cuts.Current price$236.00Original price$289.00Stock statusOnly 3 left in stock - order soonRating4.9/5SpecificationsSpecificationValueCritical chance+11%Damage49 slashEnchantmentShadow wakeWeight4.1 kgMetadataItem typeLongswordBrandBlackbriar SteelworksClass restrictionKnightMaterialNightsteelCategoryWeapons > Swords > LongswordsReview count201LoreRumored to have hung above the throne of a vanished king in the north.",
+    "outgoing_links": [
+      "https://learnwebscraping.dev/practice/ecommerce/",
+      "https://learnwebscraping.dev/practice/ecommerce/",
+      "https://learnwebscraping.dev/practice/ecommerce/categories/",
+      "https://learnwebscraping.dev/practice/ecommerce/",
+      "https://learnwebscraping.dev/practice/ecommerce/categories/",
+      "https://learnwebscraping.dev/practice/ecommerce/categories/longswords/",
+      "https://www.boot.dev"
+    ],
+    "image_urls": [
+      "https://learnwebscraping.dev/images/catalog/longswords.svg"
+    ]
+  },
+  {
+    "url": "https://learnwebscraping.dev/practice/ecommerce/products/lionwake-tournament-cuirass-fan-1202/",
+    "heading": "Lionwake Tournament Cuirass",
+    "first_paragraph": "Ecommerce/Categories/ChestplatesFAN-1202Lionwake Tournament CuirassUncommonA gleaming tournament cuirass with elegant fluting and hidden buckles that remains dependable in live combat.Current price$164.00Original price$199.00Stock statusIn StockRating4.4/5SpecificationsSpecificationValueArmor71Resistance+7% slashSet bonusLionwakeWeight10.4 kgMetadataItem typeChestplateBrandGolden Mane SmithsClass restrictionKnightMaterialPolished plate steelCategoryArmor > Heavy Armor > ChestplatesReview count325LoreWorn by lancers in summer tourneys where banners snapped above the lists.",
+    "outgoing_links": [
+      "https://learnwebscraping.dev/practice/ecommerce/",
+      "https://learnwebscraping.dev/practice/ecommerce/",
+      "https://learnwebscraping.dev/practice/ecommerce/categories/",
+      "https://learnwebscraping.dev/practice/ecommerce/",
+      "https://learnwebscraping.dev/practice/ecommerce/categories/",
+      "https://learnwebscraping.dev/practice/ecommerce/categories/chestplates/",
+      "https://www.boot.dev"
+    ],
+    "image_urls": [
+      "https://learnwebscraping.dev/images/catalog/chestplates.svg"
+    ]
+  },
+  {
+    "url": "https://learnwebscraping.dev/practice/ecommerce/products/mirelight-hex-staff-fan-1103/",
+    "heading": "Mirelight Hex Staff",
+    "first_paragraph": "Ecommerce/Categories/Arcane StavesFAN-1103Mirelight Hex StaffEpicA crooked hex staff shaped for curses, drains, and long midnight rituals.Current price$226.00Original price$274.00Stock statusOnly 3 left in stock - order soonRating4.8/5SpecificationsSpecificationValueCoreSwamp pearlFocus slots2Spell power+31Weight3.4 kgMetadataItem typeArcane StaffBrandFen CovenantClass restrictionWarlockMaterialBog oakCategoryWeapons > Staves > Arcane StavesReview count133LoreGathered from drowned groves where witch-lanterns drift over black water.",
+    "outgoing_links": [
+      "https://learnwebscraping.dev/practice/ecommerce/",
+      "https://learnwebscraping.dev/practice/ecommerce/",
+      "https://learnwebscraping.dev/practice/ecommerce/categories/",
+      "https://learnwebscraping.dev/practice/ecommerce/",
+      "https://learnwebscraping.dev/practice/ecommerce/categories/",
+      "https://learnwebscraping.dev/practice/ecommerce/categories/arcane-staves/",
+      "https://www.boot.dev"
+    ],
+    "image_urls": [
+      "https://learnwebscraping.dev/images/catalog/arcane-staves.svg"
+    ]
+  },
+  {
+    "url": "https://learnwebscraping.dev/practice/ecommerce/products/moonlit-tournament-blade-fan-1003/",
+    "heading": "Moonlit Tournament Blade",
+    "first_paragraph": "Ecommerce/Categories/LongswordsFAN-1003Moonlit Tournament BladeUncommonA polished blade that moves easily from the tournament lists to moonlit monster contracts.Current price$132.00Original price$158.00Stock statusIn StockRating4.4/5SpecificationsSpecificationValueCritical chance+5%Damage34 slashEnchantmentMoon sheenWeight3.4 kgMetadataItem typeLongswordBrandSilver Banner ArmoryClass restrictionKnightMaterialSilvered steelCategoryWeapons > Swords > LongswordsReview count442LoreCommonly carried by hedge champions on bright riverland tournament days.",
+    "outgoing_links": [
+      "https://learnwebscraping.dev/practice/ecommerce/",
+      "https://learnwebscraping.dev/practice/ecommerce/",
+      "https://learnwebscraping.dev/practice/ecommerce/categories/",
+      "https://learnwebscraping.dev/practice/ecommerce/",
+      "https://learnwebscraping.dev/practice/ecommerce/categories/",
+      "https://learnwebscraping.dev/practice/ecommerce/categories/longswords/",
+      "https://www.boot.dev"
+    ],
+    "image_urls": [
+      "https://learnwebscraping.dev/images/catalog/longswords.svg"
+    ]
+  },
+  {
+    "url": "https://learnwebscraping.dev/practice/ecommerce/products/rookwatch-siege-plate-fan-1206/",
+    "heading": "Rookwatch Siege Plate",
+    "first_paragraph": "Ecommerce/Categories/ChestplatesFAN-1206Rookwatch Siege PlateRareA thick siege-ready chestplate with offset layering that favors defense over ornament.Current price$208.00Original price$249.00Stock statusOut of StockRating4.5/5SpecificationsSpecificationValueArmor84Resistance+9% bluntSet bonusRookwatchWeight11.8 kgMetadataItem typeChestplateBrandHighwall ArsenalClass restrictionKnightMaterialLayered siege steelCategoryArmor > Heavy Armor > ChestplatesReview count144LoreNamed for tower guards who held three gates through one bitter winter.",
+    "outgoing_links": [
+      "https://learnwebscraping.dev/practice/ecommerce/",
+      "https://learnwebscraping.dev/practice/ecommerce/",
+      "https://learnwebscraping.dev/practice/ecommerce/categories/",
+      "https://learnwebscraping.dev/practice/ecommerce/",
+      "https://learnwebscraping.dev/practice/ecommerce/categories/",
+      "https://learnwebscraping.dev/practice/ecommerce/categories/chestplates/",
+      "https://www.boot.dev"
+    ],
+    "image_urls": [
+      "https://learnwebscraping.dev/images/catalog/chestplates.svg"
+    ]
+  },
+  {
+    "url": "https://learnwebscraping.dev/practice/ecommerce/products/starwell-apprentice-staff-fan-1101/",
+    "heading": "Starwell Apprentice Staff",
+    "first_paragraph": "Ecommerce/Categories/Arcane StavesFAN-1101Starwell Apprentice StaffCommonA sturdy beginner staff with a sanded rowan shaft and modest crystal cap tuned for steady classroom casting.Current price$72.00Original price$89.00Stock statusIn StockRating4.0/5SpecificationsSpecificationValueCoreQuartzFocus slots1Spell power+12Weight2.7 kgMetadataItem typeArcane StaffBrandIvory Spire AtelierClass restrictionMageMaterialRowan woodCategoryWeapons > Staves > Arcane StavesReview count584LoreIssued to first-year apprentices on the first cool morning of term.",
+    "outgoing_links": [
+      "https://learnwebscraping.dev/practice/ecommerce/",
+      "https://learnwebscraping.dev/practice/ecommerce/",
+      "https://learnwebscraping.dev/practice/ecommerce/categories/",
+      "https://learnwebscraping.dev/practice/ecommerce/",
+      "https://learnwebscraping.dev/practice/ecommerce/categories/",
+      "https://learnwebscraping.dev/practice/ecommerce/categories/arcane-staves/",
+      "https://www.boot.dev"
+    ],
+    "image_urls": [
+      "https://learnwebscraping.dev/images/catalog/arcane-staves.svg"
+    ]
+  },
+  {
+    "url": "https://learnwebscraping.dev/practice/ecommerce/products/stonewarden-bulwark-plate-fan-1203/",
+    "heading": "Stonewarden Bulwark Plate",
+    "first_paragraph": "Ecommerce/Categories/ChestplatesFAN-1203Stonewarden Bulwark PlateRareA dense chestplate etched with defensive sigils, built to turn crushing blows into manageable impacts.Current price$224.00Original price$269.00Stock statusIn StockRating4.8/5SpecificationsSpecificationValueArmor88Resistance+10% holySet bonusStonewardenWeight11.3 kgMetadataItem typeChestplateBrandGranite Hall ForgeClass restrictionPaladinMaterialRuned steelCategoryArmor > Heavy Armor > ChestplatesReview count188LoreBlessed in mountain shrines before every siege season beneath prayer flags and cedar smoke.",
+    "outgoing_links": [
+      "https://learnwebscraping.dev/practice/ecommerce/",
+      "https://learnwebscraping.dev/practice/ecommerce/",
+      "https://learnwebscraping.dev/practice/ecommerce/categories/",
+      "https://learnwebscraping.dev/practice/ecommerce/",
+      "https://learnwebscraping.dev/practice/ecommerce/categories/",
+      "https://learnwebscraping.dev/practice/ecommerce/categories/chestplates/",
+      "https://www.boot.dev"
+    ],
+    "image_urls": [
+      "https://learnwebscraping.dev/images/catalog/chestplates.svg"
+    ]
+  },
+  {
+    "url": "https://learnwebscraping.dev/practice/ecommerce/products/stormglass-channeling-staff-fan-1102/",
+    "heading": "Stormglass Channeling Staff",
+    "first_paragraph": "Ecommerce/Categories/Arcane StavesFAN-1102Stormglass Channeling StaffRareA medium-length war staff that amplifies lightning and wind magic while remaining comfortable through longer engagements.Current price$168.00Original price$205.00Stock statusIn StockRating4.7/5SpecificationsSpecificationValueCoreCharged topazFocus slots2Spell power+24Weight3.0 kgMetadataItem typeArcane StaffBrandTempest WorkshopClass restrictionMageMaterialGlasswood and bronzeCategoryWeapons > Staves > Arcane StavesReview count290LoreIts stormglass cap crackles softly before the first thunderhead forms over the hills.",
+    "outgoing_links": [
+      "https://learnwebscraping.dev/practice/ecommerce/",
+      "https://learnwebscraping.dev/practice/ecommerce/",
+      "https://learnwebscraping.dev/practice/ecommerce/categories/",
+      "https://learnwebscraping.dev/practice/ecommerce/",
+      "https://learnwebscraping.dev/practice/ecommerce/categories/",
+      "https://learnwebscraping.dev/practice/ecommerce/categories/arcane-staves/",
+      "https://www.boot.dev"
+    ],
+    "image_urls": [
+      "https://learnwebscraping.dev/images/catalog/arcane-staves.svg"
+    ]
+  },
+  {
+    "url": "https://learnwebscraping.dev/practice/ecommerce/products/sunspire-relic-blade-fan-1006/",
+    "heading": "Sunspire Relic Blade",
+    "first_paragraph": "Ecommerce/Categories/LongswordsFAN-1006Sunspire Relic BladeLegendaryA consecrated relic sword with gold inlay and a luminous fuller that flashes warmly at dawn.Current price$412.00Original price$490.00Stock statusOnly 3 left in stock - order soonRating5.0/5SpecificationsSpecificationValueCritical chance+14%Damage61 radiant slashEnchantmentSolar flareWeight4.0 kgMetadataItem typeLongswordBrandAuric ReliquaryClass restrictionPaladinMaterialBlessed sunsteelCategoryWeapons > Swords > LongswordsReview count79LoreSaid to ring like a temple bell when drawn beneath stained glass at dawn.",
+    "outgoing_links": [
+      "https://learnwebscraping.dev/practice/ecommerce/",
+      "https://learnwebscraping.dev/practice/ecommerce/",
+      "https://learnwebscraping.dev/practice/ecommerce/categories/",
+      "https://learnwebscraping.dev/practice/ecommerce/",
+      "https://learnwebscraping.dev/practice/ecommerce/categories/",
+      "https://learnwebscraping.dev/practice/ecommerce/categories/longswords/",
+      "https://www.boot.dev"
+    ],
+    "image_urls": [
+      "https://learnwebscraping.dev/images/catalog/longswords.svg"
+    ]
+  },
+  {
+    "url": "https://learnwebscraping.dev/practice/ecommerce/products/sunvault-defender-plate-fan-1205/",
+    "heading": "Sunvault Defender Plate",
+    "first_paragraph": "Ecommerce/Categories/ChestplatesFAN-1205Sunvault Defender PlateLegendaryA ceremonial breastplate with gold-lined channels that refract divine light into a halo at dawn.Current price$441.00Original price$520.00Stock statusOnly 3 left in stock - order soonRating5.0/5SpecificationsSpecificationValueArmor112Resistance+18% radiantSet bonusSunvaultWeight10.9 kgMetadataItem typeChestplateBrandAuric ReliquaryClass restrictionPaladinMaterialSunsteelCategoryArmor > Heavy Armor > ChestplatesReview count62LoreCarried out of a sealed sun-vault after a century without daylight.",
+    "outgoing_links": [
+      "https://learnwebscraping.dev/practice/ecommerce/",
+      "https://learnwebscraping.dev/practice/ecommerce/",
+      "https://learnwebscraping.dev/practice/ecommerce/categories/",
+      "https://learnwebscraping.dev/practice/ecommerce/",
+      "https://learnwebscraping.dev/practice/ecommerce/categories/",
+      "https://learnwebscraping.dev/practice/ecommerce/categories/chestplates/",
+      "https://www.boot.dev"
+    ],
+    "image_urls": [
+      "https://learnwebscraping.dev/images/catalog/chestplates.svg"
+    ]
+  },
+  {
+    "url": "https://learnwebscraping.dev/practice/ecommerce/products/verdant-duelist-saber-fan-1005/",
+    "heading": "Verdant Duelist Saber",
+    "first_paragraph": "Ecommerce/Categories/LongswordsFAN-1005Verdant Duelist SaberRareA slim saber-longsword hybrid with a lively tip and vine-work guard built for quick woodland skirmishes.Current price$167.00Original price$204.00Stock statusOut of StockRating4.5/5SpecificationsSpecificationValueCritical chance+9%Damage37 slashEnchantmentBramble whisperWeight3.1 kgMetadataItem typeLongswordBrandGreenglass ForgeClass restrictionRangerMaterialLeaf-steel alloyCategoryWeapons > Swords > LongswordsReview count154LoreFavored by forest wardens who move lightly through fern paths and cedar mist.",
+    "outgoing_links": [
+      "https://learnwebscraping.dev/practice/ecommerce/",
+      "https://learnwebscraping.dev/practice/ecommerce/",
+      "https://learnwebscraping.dev/practice/ecommerce/categories/",
+      "https://learnwebscraping.dev/practice/ecommerce/",
+      "https://learnwebscraping.dev/practice/ecommerce/categories/",
+      "https://learnwebscraping.dev/practice/ecommerce/categories/longswords/",
+      "https://www.boot.dev"
+    ],
+    "image_urls": [
+      "https://learnwebscraping.dev/images/catalog/longswords.svg"
+    ]
+  },
+  {
+    "url": "https://learnwebscraping.dev/practice/ecommerce/products/whisperleaf-scout-cloak-fan-1301/",
+    "heading": "Whisperleaf Scout Cloak",
+    "first_paragraph": "Ecommerce/Categories/CloaksFAN-1301Whisperleaf Scout CloakCommonA plain but reliable hooded cloak that breaks up the wearer\u2019s silhouette on forest roads and wet ridgelines.Current price$54.00Original price$68.00Stock statusIn StockRating4.1/5SpecificationsSpecificationValueArmor18EffectRain sheddingEvasion+5%Weight1.2 kgMetadataItem typeCloakBrandThornpath OutfittersClass restrictionRangerMaterialMoss-dyed woolCategoryArmor > Light Armor > CloaksReview count726LoreA field staple among scouts who know the quiet paths between cedar groves.",
+    "outgoing_links": [
+      "https://learnwebscraping.dev/practice/ecommerce/",
+      "https://learnwebscraping.dev/practice/ecommerce/",
+      "https://learnwebscraping.dev/practice/ecommerce/categories/",
+      "https://learnwebscraping.dev/practice/ecommerce/",
+      "https://learnwebscraping.dev/practice/ecommerce/categories/",
+      "https://learnwebscraping.dev/practice/ecommerce/categories/cloaks/",
+      "https://www.boot.dev"
+    ],
+    "image_urls": [
+      "https://learnwebscraping.dev/images/catalog/cloaks.svg"
+    ]
+  }
+]

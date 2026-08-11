@@ -3,6 +3,7 @@ import sys
 from ast import AsyncFunctionDef
 
 from crawl import crawl_site_async
+from json_report import write_json_report as report
 
 
 async def main():
@@ -27,9 +28,9 @@ async def main():
     max_pages = int(args[3])
     print(f"Hello from web-crawler-in-python! Now crawling: {url}")
     page_data = await crawl_site_async(url, max_concurrency, max_pages)
-
-    if page_data:
-        print(page_data)
+    report(page_data)
+    # if page_data:
+    #     print(page_data)
 
     print("Script name:", sys.argv[0])  # example.py
     print("Argument:", sys.argv[1])  # -v
